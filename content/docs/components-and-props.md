@@ -22,7 +22,7 @@ next: state-and-lifecycle.html
 
 ## 函数组件与 class 组件 {#function-and-class-components}
 
-定义组件最简单的方式就是编写 JavaScript 函数：
+定义组件最简单的方式就是编写 JavaScript 函数
 
 ```js
 function Welcome(props) {
